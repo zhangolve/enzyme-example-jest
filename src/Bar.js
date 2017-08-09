@@ -1,6 +1,3 @@
-/**
- * Created by dejavu on 17-8-8.
- */
 import React, { PropTypes } from 'react';
 
 const propTypes = {};

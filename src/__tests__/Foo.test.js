@@ -1,3 +1,6 @@
+/**
+ * Created by dejavu on 17-8-8.
+ */
 import React from 'react';
 import { shallow, mount, render } from 'enzyme';
 
